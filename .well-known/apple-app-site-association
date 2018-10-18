@@ -4,11 +4,11 @@
         "details": [
                     {
                     "appID": "4MS6PVYM82.my.com.unifi.care",
-                    "paths": ["https://unifi.com.my"]
+                    "paths": ["*"]
                     },
                     {
                     "appID": "4MS6PVYM82.my.com.unifi.care.sit",
-                    "paths": ["https://unifi.com.my"]
+                    "paths": ["*"]
                     }
                     ]
                 }
