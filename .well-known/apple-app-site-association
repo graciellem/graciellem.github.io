@@ -8,7 +8,7 @@
                     },
                     {
                     "appID": "4MS6PVYM82.my.com.unifi.care.sit",
-                    "paths": ["*"]
+                    "paths": ["/welcome/welcome.html"]
                     }
                     ]
                 }
